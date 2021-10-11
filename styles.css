@@ -1,0 +1,122 @@
+body{
+  background-color: #FFC93C;
+  margin: 0px;
+}
+h1{
+  letter-spacing:5px;
+  font-size: 40px;
+font-family: 'Raleway', sans-serif;
+text-decoration: underline;
+margin-top: 0px;
+text-align: left;
+position: absolute;
+top: 20px;
+}
+h5{
+  display: inline-block;
+
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  text-align: left;
+  position: relative;
+  left: 200px;
+  top: 20px;
+  align-items: baseline;
+}
+h4
+{
+font-family: 'Raleway', sans-serif;
+}
+h6{
+  display: inline-block;
+
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  text-align: left;
+  position: relative;
+  left: 200px;
+  top: 20px;
+  align-items: baseline;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+.login
+{
+  position: absolute;
+right: 10px;
+top: 18px;
+
+display: inline-block;
+font-family: 'Raleway', sans-serif;
+}
+.tap{
+  width: 100%;
+}
+
+
+
+.bottom
+{
+
+background-color: #323232;
+padding-bottom: 100px;
+
+
+
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  color: white;
+  text-align: center;
+  margin: 0px;
+  background-color: #323232;
+padding-top: 10px;
+font-size: 10px;
+}
+
+.Head-1{
+padding-top: 0px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+  .middle{
+
+    margin: 10px;
+
+  }
+.footer{
+   background-color:#323232;
+   padding-top: 100px;
+}
+.bottom-heading{
+  color: white;
+  position: relative;
+  top: 0px;
+
+}
+.footer-link{
+  position: relative;
+  top: 75px;
+}
+.su{
+  position: relative;
+  top: 35px;
+  color: white;
+  font-size: 15px;
+}
+.email{
+  position: relative;
+  top: 75px;
+  left: 30px;
+  color: white;
+
+}
+.btn{
+  position: relative;
+  left: 958px;
+  bottom: 84px;
+}
